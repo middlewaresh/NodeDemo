@@ -1,0 +1,26 @@
+{
+  "name": "node-js-mw-sample",
+  "version": "0.0.1",
+  "description": "A sample Node.js web application for middleware.sh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/middlewaresh/NodeDemo"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "middlewaresh",
+    "devops"
+  ],
+  "license": "MIT"
+}
