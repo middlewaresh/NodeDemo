@@ -2,6 +2,6 @@
   "name": "Sample node application",
   "description": "Sample node application for middleware.sh",
   "repository": "https://github.com/middlewaresh/NodeDemo",
-  "logo": "https://rawgit.com/middlewaresh/NodeDemo/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/middlewaresh/NodeDemo/public/node.svg",
   "keywords": ["node", "express", "middlewaresh", "devops", "static"]
 }
